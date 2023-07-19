@@ -7,3 +7,4 @@ In this project, we forecast current market trends and predict stock prices accu
 Month-wise high and low stock prices:
 
 
+
